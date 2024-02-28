@@ -24,7 +24,7 @@ As first-year students, we encountered challenges during the backend development
 
 ## How to Use
 
-1. Clone the repository: `git clone https://github.com/NN4171k/innobait.git`
+1. Clone the repository: `git clone https://github.com/N4171k/innobait.git`
 2. Navigate to the project directory: `cd innobait`
 3. Install dependencies: `npm install`
 4. Start the application: `npm start`
